@@ -1,4 +1,4 @@
-package com.rideshare.locationservice;
+package com.rideshare.location_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

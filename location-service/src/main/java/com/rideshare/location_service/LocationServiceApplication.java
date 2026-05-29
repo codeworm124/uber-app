@@ -1,4 +1,4 @@
-package com.rideshare.locationservice;
+package com.rideshare.location_service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
